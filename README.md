@@ -31,7 +31,7 @@ $ pip install -r requirements.txt
 
 Next step is to download the CSI traces we collected:
 ```
-$ cd presencedetection
+$ cd ocsvm_pd
 $ mkdir data
 $ cd data
 $ wget https://www2.informatik.hu-berlin.de/~zubow/ocsvm_pd_dataset_tub.zip
