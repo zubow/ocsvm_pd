@@ -39,7 +39,7 @@ $ unzip ocsvm_pd_dataset_tub.zip
 $ rm ocsvm_pd_dataset_tub.zip
 ```
 
-![environments](figs/env_layout.jpg "The three environment evaluated: layout of rooms a, b and c.")
+![environments](env_layout.jpg "The three environment evaluated: layout of rooms a, b and c.")
 
 ## 1. Run Example
 
